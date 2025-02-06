@@ -1,0 +1,4 @@
+access_key = ""
+secret_key = ""
+region     = "KR"  # 필요에 따라 다른 리전으로 변경 가능
+login_key_name = ""
